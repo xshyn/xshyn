@@ -1,57 +1,29 @@
 <div align="center">
 
-```
-$ whoami
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e2a4a,100:3a5a8c&height=180&section=header&text=Shayan%20Ahmadi&fontSize=42&fontColor=eef2fa&fontAlignY=45&desc=Back-end%20Developer%20%C2%B7%20Tehran&descAlignY=65&descSize=16" />
 
-# Shayan Ahmadi
+<br>
 
-**Back-End Developer** — building server-side systems that scale
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=3500&pause=1200&color=6E8DC7&center=true&vCenter=true&width=520&lines=Building+systems+nobody+notices+until+they+break;NestJS+%2B+Node.js+%2B+a+lot+of+careful+error+handling;Currently+teaching+digital+systems" />
 
 </div>
 
 <br>
 
-```bash
-> stack --node --express --nestjs
-> databases --mongodb --mysql --postgresql
-> infra --docker
-> status: 3 years in production, still shipping
-```
+I build back-end systems — mostly Node.js, Express, and NestJS — with a soft spot for the unglamorous parts: untangling a messy data model, or figuring out why something works in staging and not in production. Three years in, still enjoying it.
 
-<br>
-
-### currently
-
-```diff
-+ designing microservices architectures
-+ containerizing services with Docker
-+ teaching digital systems @ Imam Khomeini International University
-+ exploring where AI meets back-end systems
-```
+Outside of code, I teach digital systems to students who ask better questions than I expected. Lately I've been curious about where AI actually earns its place in back-end work, rather than just being bolted on.
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<br>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres,docker&theme=dark" />
 
 </div>
 
 <br>
 
-```
-$ connect --with shayan
-```
-
 <div align="center">
-
-<a href="https://github.com/xshyn">GitHub</a>
-
+<sub>Tehran, Iran · <a href="https://github.com/xshyn">github.com/xshyn</a></sub>
 </div>
